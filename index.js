@@ -1,3 +1,3 @@
 const obj = {
-  h: "s1Helloks1s2k2",
+  h: "s1Hello(ks1)s2k2(ks2)",
 };
